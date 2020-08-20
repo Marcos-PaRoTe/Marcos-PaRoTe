@@ -14,40 +14,40 @@
 
 <div class="column-left">
   <p align='center'>
-    <h5 id="headers" > :construction: Atualmente estou estudando...</h5>
-    <h5> :closed_book: Front-end:&nbsp;&nbsp;&nbsp; 
+    <h3 id="headers" > :construction: Atualmente estou estudando...</h3>
+    <h4> :closed_book: Front-end:&nbsp;&nbsp;&nbsp; 
      <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=&color=orange&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3%20-%23e34f26.svg?&style=for-the-badge&logo=&color=skyblue&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;    
     <img src="https://img.shields.io/badge/JavaScript%20-%23e34f26.svg?&style=for-the-badge&logo=javascript&color=yellow&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    </h5>
+    </h4>
   </p>
 </div>
 
 <div class="column-right">
   <p align='center'>
-    <h5>:green_book: Backend:&nbsp;&nbsp;&nbsp; 
+    <h4>:green_book: Backend:&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/MySQL%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/PHP%20-%23339933.svg?&style=for-the-badge&logo=php&color=darkblue&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    </h5>
+    </h4>
   </p>
 </div>
 
 <div class="column-right">
   <p align='center'>
-    <h5>:blue_book: Mobile:&nbsp;&nbsp;&nbsp; 
+    <h4>:blue_book: Mobile:&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/react native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    </h5>
+    </h4>
   </p>
 </div>
 
 <div class="column-right">
   <p align='center'>
-    <h5>:orange_book: Programação:&nbsp;&nbsp;&nbsp; 
+    <h4>:orange_book: Programação:&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Git%20-%2361DAFB.svg?&style=for-the-badge&logo=git&color=gray&Color=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GitHub%20-%2361DAFB.svg?&style=for-the-badge&logo=github&color=gray&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    </h5>
+    </h4>
   </p>
 </div>
 </div>
@@ -55,5 +55,5 @@
 <hr>
 
 </div>
-<p align="right"><h5 align="right">:facepunch:   No fim do dia, é tudo sobre pessoas....</h5></p>
+<p align="right"><h4 align="right">:facepunch:   No fim do dia, é tudo sobre pessoas....</h4></p>
 
