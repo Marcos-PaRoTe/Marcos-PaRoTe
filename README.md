@@ -29,7 +29,6 @@
     <h4>:green_book: Backend:&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/MySQL%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/PHP%20-%23339933.svg?&style=for-the-badge&logo=php&color=darkblue&logoColor=white" />&nbsp;&nbsp;&nbsp;
     </h4>
   </p>
 </div>
